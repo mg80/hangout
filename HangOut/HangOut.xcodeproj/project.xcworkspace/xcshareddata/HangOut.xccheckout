@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>339DB64A-E7F3-4EF4-97F1-4F5FA404BF58</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>HangOut</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>4139F9AB32B4590DF8B9D12F613DFACBC884839E</key>
 		<string>https://github.com/mg80/hangout.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>HangOut/HangOut.xcodeproj/project.xcworkspace</string>
+	<string>HangOut/HangOut.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4139F9AB32B4590DF8B9D12F613DFACBC884839E</key>
